@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(){
+
 #define MAX_ITEMS 100
 #define MAX_NAME_LENGTH 50
+
+
 
 typedef struct {
     char name[MAX_NAME_LENGTH];
@@ -99,5 +101,4 @@ int main() {
     return 0;
 }
 
-}
 
