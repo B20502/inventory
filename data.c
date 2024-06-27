@@ -1,3 +1,5 @@
+//An inventory system that enters items, prices and the total value.
+
 #include <stdio.h>
 #include <string.h>
 
